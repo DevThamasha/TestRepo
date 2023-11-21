@@ -8,6 +8,8 @@
 
 <?php
 
+    $test = 1;
+
 
     echo"First php doc";
 
