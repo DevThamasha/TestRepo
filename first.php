@@ -10,6 +10,8 @@
 
     $test = 1;
 
+    echo $test;
+
 
     echo"First php doc";
 
